@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
+<<<<<<< HEAD
 gem 'dotenv-rails', groups: [:development, :test]
+=======
+gem 'dotenv-rails'
+>>>>>>> de28eab9c825122956255ea94e979ed4244753b5
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
 # Use sqlite3 as the database for Active Record
